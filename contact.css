@@ -34,6 +34,25 @@ nav ul li a:hover {
     background-color: #A5D6A7;
 }
 
+main {
+    padding: 2rem;
+}
+
+.contact-content {
+    max-width: auto;
+    margin: 0 auto;
+    background-color: white; 
+    text-align: center;
+}
+
+.contact-content a {
+    color: #4CAF50;
+    text-decoration: none;
+}
+
+.contact-content a:hover {
+    text-decoration: underline;
+}
 
 footer {
     background-color: #4CAF50; 
